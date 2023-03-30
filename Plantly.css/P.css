@@ -1,0 +1,887 @@
+@import url('https://fonts.googleapis.com/css2?family=Suravaram&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vidaloka&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arapey&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    background: #F6F7F2;
+}
+.burger {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-top: 8px;
+}
+.plantly-logo {
+    height: 35px;
+    margin-left: 14px;
+}
+.hamburger {
+    height: 35px;
+    margin-right:  14px;
+}
+.perfect {
+    font-family: 'Space Mono';
+    font-size: 65px;
+    font-weight: lighter;
+    margin-left: 17px;
+}
+.interior {
+   color:  #3D713C;
+}
+.lorem {
+    font-family: 'Open Sans', sans-serif;
+    font-size: smaller;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.sale {
+    padding-top: 40px;
+}
+.shopping {
+    font-family: 'Open Sans', sans-serif;
+    font-size: smaller;
+    font-weight: lighter;
+    margin-top: 30px;
+    margin-left: 110px;
+}
+.arrow {
+    margin-left: 5px;
+}
+.shop {
+    display: table-cell;
+    background-color: black;
+    color: white;
+    padding-left: 21px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-top: 40px;
+    border: 1px solid black;
+    margin-right: 443px;
+    padding-right: 20px;
+    font-size: x-small;
+    font-weight: lighter;
+}
+.slider {
+    padding-top: 30px;
+    margin-left: 135px;
+}
+.pointed {
+    height: 447px;
+    margin-left: 36px;
+    margin-top: 40px;
+}
+.heart {
+    height: 447px;
+    padding-top: 58px;
+    margin-left: 44px;
+}
+.rectangle {
+    height: 221px;
+    padding-top: 30px;
+    margin-left: 71px;
+    margin-bottom: 33px;
+}
+.container2 {
+    background-color: #EBEEE3;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.own {
+    font-family: 'Vidaloka', serif;
+    font-weight: lighter;
+    color: #A6B0A5;
+    margin-bottom: 45px;
+}
+.green {
+    border: 1px solid #A6B0A5;
+    background-color: #A6B0A5;
+    border-radius: 5px;
+    padding-left: 4px;
+    padding-right: 4px;
+    color: #EBEEE3;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+}
+.ary {
+    font-family: 'Oswald', sans-serif;
+    color: #A6B0A5;
+    font-weight: lighter;
+    margin-bottom: 45px;
+}
+.plan {
+    color: #A6B0A5;
+    font-weight: bold;
+    font-family: 'Work Sans', sans-serif;
+}
+.info {
+    color: #A6B0A5;
+    font-weight: lighter;
+    font-family: 'Work Sans', sans-serif;
+    margin-bottom: 45px;
+}
+.nursery {
+    font-family: 'Jost', sans-serif;
+    color: #A6B0A5;
+    font-weight: lighter;
+    margin-bottom: 45px;
+}
+.truth {
+    font-family: 'Abhaya Libre', serif;
+    font-weight: bold;
+}
+.guide {
+    font-family: 'Abhaya Libre', serif;
+    color: #A6B0A5;
+    font-weight: lighter;
+}
+.center {
+    text-align: center;
+}
+.container3 {
+    background: #F6F7F2;
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.okay {
+    display: flex;
+    padding-left: 15px;
+}
+.jiggy {
+    display: table-cell;
+}
+.stem {
+    height: 389px;
+    margin-right: 23px;
+}
+.rose {
+    padding-top: 95px;
+    margin-left: -154px;
+    height: 352px;
+}
+.play {
+    padding-top: 179px;
+    margin-left: -129px;
+}
+.journey {
+    padding-top: 25px;
+}
+.our {
+    padding-bottom: 5px;
+    font-family: 'Arapey', serif;
+    font-size: xx-large;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.read {
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-top: 40px;
+    border: 1px solid black;
+    font-size: x-small;
+    font-weight: lighter;
+    text-align: center;
+    margin-left: 126px;
+    margin-right: 126px;
+}
+.container4 {
+    background-color: #EBEEE3;
+    padding-bottom: 70px;
+}
+.done {
+    font-family: 'Open Sans', sans-serif;
+    font-size: smaller;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.why {
+    padding-bottom: 27px;
+    padding-top: 27px;
+    font-family: 'Arapey', serif;
+    font-size: xx-large;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.nulla {
+    font-family: 'Open Sans', sans-serif;
+    font-size: smaller;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
+.one {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 45px;
+}
+.two {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 45px;
+}
+.three {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 45px;
+}
+.pray {
+    color: #3D713C;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 14px;
+}
+.us {
+    color: #3D713C;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: revert;
+}
+.for {
+    color: #3D713C;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    font-size: revert;
+}
+.succulent {
+    font-family: 'Arapey', serif;
+    font-weight: 500;
+}
+.decor {
+    font-family: 'Arapey', serif;
+    font-weight: 500;
+}
+.air {
+    font-family: 'Arapey', serif;
+    font-weight: 500;
+}
+.at {
+    font-family: 'Open Sans', sans-serif;
+    font-size: small;
+}
+.puri {
+    margin-left: -11px;
+}
+.lent {
+    margin-left: -11px;
+}
+.or {
+    margin-left: -11px;
+}
+.end {
+    margin-left: -17px;
+}
+.angle {
+    height: 320px;
+    margin-left: 35px;
+}
+.tiia {
+    height: 320px;
+    margin-top: 50px;
+    margin-left: -116px;
+}
+.take {
+    display: flex;
+}
+.container5 {
+    padding-top: 45px;
+}
+.fresh {
+    font-family: 'Arapey', serif;
+    text-align: center;
+    font-weight: bolder;
+    padding-bottom: 50px;
+}
+.money {
+    height: 359px;
+    border: 1px solid #EBEEE3;
+    background-color: #EBEEE3;
+    border-radius: 5px;
+    margin-left: 45px;
+}
+.mole {
+    display: flex;
+    padding-bottom: 50px;
+}
+.loving {
+    margin-left: -46px;
+    border: 1px solid #F6F7F2;
+    background-color: #F6F7F2;
+    border-radius: 50% 50%;
+    margin-top: 11px;
+    height: 33px;
+    padding: 8px;
+}
+.cala {
+    height: 350px;
+    border: 1px solid #EBEEE3;
+    background-color: #EBEEE3;
+    border-radius: 5px;
+    margin-left: 45px;
+    width: 302px
+}
+.cared {
+    display: flex;
+}
+.red {
+    margin-left: -46px;
+    border: 1px solid #F6F7F2;
+    background-color: #F6F7F2;
+    border-radius: 50% 50%;
+    margin-top: 11px;
+    height: 33px;
+    padding: 8px;
+}
+.mplant {
+    margin-left: 55px;
+    font-family: 'Arapey', serif;
+    margin-top: 5px;
+    font-size: larger;
+    font-weight: 500;
+}
+.dolls {
+    margin-left: 55px;
+    margin-top: 5px;
+    color: #3D713C;
+}
+.niece {
+    margin-top: 41em;
+    margin-left: -34em;
+}
+.cart {
+    margin-top: 252px;
+    margin-left: -280px;
+    border: 1px solid;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: center;
+    margin-right: 21px;
+    border-radius: 5px;
+}
+.real {
+    margin-left: -34em;
+    margin-top: 3em;
+}
+.row {
+    margin-left: 6px;
+}
+.money2 {
+    height: 351px;
+    width: 304px;
+    border: 1px solid #EBEEE3;
+    background-color: #EBEEE3;
+    border-radius: 5px;
+    margin-left: 45px;
+    margin-top: 56px;
+}
+.bing {
+    margin-left: 140px;
+    border: 1px solid #F6F7F2;
+    background-color: #F6F7F2;
+    border-radius: 50% 50%;
+    margin-top: 72px;
+    height: 33px;
+    padding: 8px;
+}
+.zuzu {
+    display: flex;
+}
+.calathea2 {
+    height: 351px;
+    width: 304px;
+    border: 1px solid #EBEEE3;
+    background-color: #EBEEE3;
+    border-radius: 5px;
+    margin-left: 45px;
+    margin-top: 56px;
+}
+.ring {
+    margin-left: -46px;
+    border: 1px solid #F6F7F2;
+    background-color: #F6F7F2;
+    border-radius: 50% 50%;
+    margin-top: 72px;
+    height: 33px;
+    padding: 8px;
+}
+.sax {
+    display: flex;
+}
+.all {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-top: 40px;
+    border: 1px solid black;
+    font-size: x-small;
+    font-weight: lighter;
+    text-align: center;
+    margin-left: 126px;
+    margin-right: 126px;
+    margin-bottom: 40px;
+}
+.low {
+    margin-left: 8px;
+}
+.fun {
+    margin-bottom: 74px;
+}
+.harder {
+    display: flex;
+    margin-left: 90px;
+    margin-bottom: 50px;
+}
+.kart {
+    height: 30px;
+}
+.holy {
+    margin-left: 26px;
+}
+.way {
+    display: flex;
+    margin-left: 90px;
+}
+.safety {
+    height: 30px;
+}
+.gate {
+    margin-left: 26px;
+}
+.med {
+    display: flex;
+    margin-left: 86px;
+    margin-top: 40px;
+}
+.lity {
+    margin-left: 22px;
+}
+.gat {
+    height: 34px;
+}
+.very {
+    display: flex;
+    margin-left: 86px;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.big {
+    margin-left: 22px;
+}
+.footer {
+    background-color: #E7EADF;
+    padding-top: 70px;
+    padding-bottom: 12px;
+}
+.company {
+    text-align: left;
+    margin-left: 142px;
+    margin-bottom: 70px;
+    margin-top: 5em;
+}
+.hymn {
+    margin-bottom: 1em;
+    font-size: inherit;
+}
+.pany {
+    margin-bottom: 30px;
+}
+.sup {
+    text-align: left;
+    margin-left: 142px;
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+.or {
+    margin-bottom: 30px;
+}
+.up {
+    margin-left: 11px;
+}
+p {
+    margin-bottom: 10px;
+}
+.new {
+    text-align: center;
+}
+.on {
+    margin-bottom: 30px;
+}
+.brew {
+    margin-left: 142px;
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
+.mail {
+    display: flex;
+    justify-content: center;
+}
+.sub {
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 0px 10px 10px 0px;
+    padding: 15px 15px 17px;
+    font-family: inherit;
+}
+.hold {
+    padding: 15px 24px 10px;
+    border-radius: 10px 0 0 10px;
+    background-color: #f0eef5;
+    margin-left: -12px;
+}
+.sem {
+    text-align: left;
+    margin-left: 36px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: small;
+    margin-bottom: 32px;
+}
+.feel {
+    height: 30px;
+    margin-left: 28px;
+    margin-bottom: 20px;
+}
+.car {
+    margin-top: 50px;
+}
+.act {
+    margin-top: 1em;
+}
+.pose {
+    margin-top: 30px;
+    text-align: center;
+}
+.tweet {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 4em;
+}
+.temp {
+    margin-top: 45px;
+}
+.actual {
+    margin-bottom: 30px;
+}
+
+
+html {
+    font-size: 62.5%;
+    font-family: 'Roboto', sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+.header{
+    border-bottom: 1px solid #E2E8F0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 1.5rem;
+}
+.hamburger {
+    display: none;
+}
+.bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: #101010;
+}
+.nav-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-item {
+    margin-left: 5rem;
+}
+
+.nav-link{
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: #475569;
+}
+
+.nav-link:hover{
+    color: #482ff7;
+}
+
+.nav-logo {
+    font-size: 2.1rem;
+    font-weight: 500;
+    color: #482ff7;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .nav-menu {
+        position: fixed;
+        left: -100%;
+        top: 5rem;
+        flex-direction: column;
+        background-color: #F6F7F2;
+        width: 100%;
+        border-radius: 10px;
+        text-align: center;
+        transition: 0.3s;
+        box-shadow:
+            0 10px 27px rgba(0, 0, 0, 0.05);
+    }
+
+    .nav-menu.active {
+        left: 0;
+    }
+
+    .nav-item {
+        margin: 2.5rem 0;
+    }
+
+    .hamburger {
+        display: block;
+        cursor: pointer;
+    }
+
+    .hamburger.active .bar:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hamburger.active .bar:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+
+    .hamburger.active .bar:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
+
+
+}
+
+@media only screen and (min-width : 992px) {
+    .container {
+        display: flex;
+        justify-content: space-around;
+    }
+    .five {
+        display: flex;
+        margin-bottom: 20em;
+    }
+    .heart {
+        height: 31em;   
+        margin-left: 2em;
+        margin-top: 4em;
+    }
+    .rectangle {
+        height: 13em;
+        margin-left: 2em;
+        margin-top: -1em;
+    }
+    .pointed {
+        height: 55em;
+    }
+    .array {
+        margin-top: 15em;
+    }
+    .lorem {
+        margin-left: 3em;
+    }
+    .navbar {
+        background: #F6F7F2;
+    }
+    .center {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 5em;
+    }
+    .fresh {
+        margin-bottom: -3em;
+        margin-top: 3em;
+        font-weight: bolder;
+        font-size: x-large;
+        text-align: revert;
+        margin-left: 4em;
+    }
+    .container3 {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .stem {
+        height: 60em;
+    }
+    .rose {
+        height: 43em;
+        margin-top: 13em;
+    }
+    .play {
+        margin-top: 17em;
+        margin-left: -17em;
+    }
+    .journey {
+        margin-top: 8em;
+    }
+    .done {
+        font-size: initial;
+    }
+    .read {
+        margin-left: 25em;
+        margin-right: 25em;
+    }
+    .enter {
+        display: flex;
+        justify-content: space-around;
+    }
+    .tiia {
+        height: 60em;
+    }
+    .angle {
+        height: 56em;
+        margin-right: -15em;
+    }
+    .force {
+        margin-top: 17em;
+    }
+    .take {
+        margin-top: 9em;
+    }
+    .issue {
+        display: flex;
+        margin-left: 5em;
+
+    }
+    .cart {
+        margin-top: 265px;
+        margin-left: -291px;
+        margin-right: 14px;
+    }
+    .real {
+        margin-left: -35em;
+        margin-top: 2.1em;
+    }
+    .cala {
+        margin-top: 6em;
+        height: 349px;
+        width: 308px;
+    }
+    .money {
+        height: 353px;
+        width: 29em;
+        margin-top: 6em;
+    }
+    .loving {
+        margin-top: 74px;
+    }
+    .red {
+        margin-top: 71px;
+    }
+    .all {
+        margin-left: 67em;
+        margin-right: 67em;
+    }
+    .load {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .med {
+        margin-top: 0em;
+    }
+    .very {
+        margin-top: 0em;
+    }
+    .mail {
+        display: flex;
+        justify-content: start;
+    }
+    .feet {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .pose {
+        display: flex;
+        justify-content: space-around;
+    }
+    .tweet {
+        display: flex;
+        margin-top: 0em;
+    }
+    .temp {
+        margin-top: 13px;
+        margin-right: 60em;
+    }
+    .act {
+        margin-right: 3em;
+        margin-top: 13px;
+    }
+    .inga {
+        margin-left: 2em;
+    }
+    .insta {
+        margin-left: 2em;
+    }
+    .twinkle {
+        margin-left: 2em;
+    }
+    .linked {
+        margin-left: 2em;
+    }
+    .hold {
+        padding: 15px 25px 10px;
+        border-radius: 10px 0 0 10px;
+        background-color: #f0eef5;
+        margin-left: 37px;
+    }
+    .sub {
+        padding: 15px 15px 17px;
+    }
+    .brew {
+        margin-left: 75px;
+        margin-top: 0em;
+    }
+    .company {
+        margin-top: 0em;
+    }
+    .sup {
+        margin-top: 0em;
+    }
+    .close:hover {
+        transform: scale(1.5);
+    }
+    .large:hover {
+        transform: scale(1.5);
+    }
+    .look:hover {
+        transform: scale(1.5);
+    }
+    .guard:hover {
+        transform: scale(1.5);
+    }
+    .beat:hover {
+        transform: scale(1.5);
+    }
+}
