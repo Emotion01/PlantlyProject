@@ -206,7 +206,7 @@
     font-family: 'Open Sans', sans-serif;
     font-size: smaller;
     margin-top: 20px;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 .why {
     padding-bottom: 27px;
@@ -221,7 +221,7 @@
     font-family: 'Open Sans', sans-serif;
     font-size: smaller;
     margin-top: 20px;
-    margin-left: 10px;
+    margin-left: 24px;
     margin-bottom: 40px;
 }
 .one {
@@ -259,14 +259,17 @@
 .succulent {
     font-family: 'Arapey', serif;
     font-weight: 500;
+    font-size: initial;
 }
 .decor {
     font-family: 'Arapey', serif;
     font-weight: 500;
+    font-size: initial;
 }
 .air {
     font-family: 'Arapey', serif;
     font-weight: 500;
+    font-size: initial;
 }
 .at {
     font-family: 'Open Sans', sans-serif;
@@ -883,5 +886,38 @@ a {
     }
     .beat:hover {
         transform: scale(1.5);
+    }
+    .one {
+        margin-left: 15px;
+    }
+    .two {
+        margin-left: 15px;
+    }
+    .three {
+        margin-left: 15px;
+    }
+    .succulent {
+        font-size: initial;
+    }
+    .air {
+        font-size: initial;
+    }
+    .decor {
+        font-size: initial;
+    }
+    .own {
+        font-size: x-large;
+    }
+    .ary {
+        font-size: x-large;
+    }
+    .info {
+        font-size: x-large;
+    }
+    .guide {
+        font-size: x-large;
+    }
+    .nursery {
+        font-size: x-large;
     }
 }
