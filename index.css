@@ -42,7 +42,7 @@
     font-family: 'Open Sans', sans-serif;
     font-size: smaller;
     margin-top: 20px;
-    margin-left: 10px;
+    margin-left: 7px;
 }
 .sale {
     padding-top: 40px;
@@ -166,8 +166,9 @@
 }
 .rose {
     padding-top: 95px;
-    margin-left: -180px;
-    height: 352px;
+    margin-left: -115px;
+    height: 368px;
+    width: 178px;
 }
 .play {
     padding-top: 179px;
