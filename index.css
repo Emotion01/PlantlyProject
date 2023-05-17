@@ -78,18 +78,18 @@
 }
 .pointed {
     height: 447px;
-    margin-left: 36px;
+    margin-left: 21px;
     margin-top: 40px;
 }
 .heart {
     height: 447px;
     padding-top: 58px;
-    margin-left: 44px;
+    margin-left: 27px;
 }
 .rectangle {
     height: 221px;
     padding-top: 30px;
-    margin-left: 71px;
+    margin-left: 58px;
     margin-bottom: 33px;
 }
 .container2 {
@@ -155,7 +155,7 @@
 }
 .okay {
     display: flex;
-    padding-left: 15px;
+    padding-left: 10px;
 }
 .jiggy {
     display: table-cell;
@@ -166,7 +166,7 @@
 }
 .rose {
     padding-top: 95px;
-    margin-left: -154px;
+    margin-left: -180px;
     height: 352px;
 }
 .play {
@@ -206,7 +206,7 @@
     font-family: 'Open Sans', sans-serif;
     font-size: smaller;
     margin-top: 20px;
-    margin-left: 20px;
+    margin-left: 4px;
 }
 .why {
     padding-bottom: 27px;
@@ -221,7 +221,7 @@
     font-family: 'Open Sans', sans-serif;
     font-size: smaller;
     margin-top: 20px;
-    margin-left: 24px;
+    margin-left: 10px;
     margin-bottom: 40px;
 }
 .one {
@@ -298,6 +298,7 @@
 }
 .take {
     display: flex;
+    margin-left: -20px;
 }
 .container5 {
     padding-top: 45px;
@@ -313,7 +314,7 @@
     border: 1px solid #EBEEE3;
     background-color: #EBEEE3;
     border-radius: 5px;
-    margin-left: 45px;
+    margin-left: 27px;
 }
 .mole {
     display: flex;
@@ -333,7 +334,7 @@
     border: 1px solid #EBEEE3;
     background-color: #EBEEE3;
     border-radius: 5px;
-    margin-left: 45px;
+    margin-left: 27px;
     width: 302px
 }
 .cared {
@@ -349,14 +350,50 @@
     padding: 8px;
 }
 .mplant {
-    margin-left: 55px;
+    margin-left: 33px;
     font-family: 'Arapey', serif;
     margin-top: 5px;
     font-size: larger;
     font-weight: 500;
 }
-.dolls {
-    margin-left: 55px;
+.nplant {
+    margin-left: 43px;
+    font-family: 'Arapey', serif;
+    margin-top: 5px;
+    font-size: larger;
+    font-weight: 500;
+}
+.lplant {
+    margin-left: 44px;
+    font-family: 'Arapey', serif;
+    margin-top: 5px;
+    font-size: larger;
+    font-weight: 500;
+}
+.oplant {
+    margin-left: 33px;
+    font-family: 'Arapey', serif;
+    margin-top: 5px;
+    font-size: larger;
+    font-weight: 500;
+}
+.mdolls {
+    margin-left: 33px;
+    margin-top: 5px;
+    color: #3D713C;
+}
+.ndolls {
+    margin-left: 45px;
+    margin-top: 5px;
+    color: #3D713C;
+}
+.ldolls {
+    margin-left: 45px;
+    margin-top: 5px;
+    color: #3D713C;
+}
+.odolls {
+    margin-left: 33px;
     margin-top: 5px;
     color: #3D713C;
 }
@@ -387,7 +424,7 @@
     border: 1px solid #EBEEE3;
     background-color: #EBEEE3;
     border-radius: 5px;
-    margin-left: 45px;
+    margin-left: 24px;
     margin-top: 56px;
 }
 .bing {
@@ -408,7 +445,7 @@
     border: 1px solid #EBEEE3;
     background-color: #EBEEE3;
     border-radius: 5px;
-    margin-left: 45px;
+    margin-left: 25px;
     margin-top: 56px;
 }
 .ring {
@@ -550,14 +587,14 @@ p {
 }
 .sem {
     text-align: left;
-    margin-left: 36px;
+    margin-left: 23px;
     font-family: 'Open Sans', sans-serif;
     font-size: small;
     margin-bottom: 32px;
 }
 .feel {
     height: 30px;
-    margin-left: 28px;
+    margin-left: 18px;
     margin-bottom: 20px;
 }
 .car {
